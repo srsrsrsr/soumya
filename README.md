@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm soumya 👋
 
 ### Front-End / React Developer | 10+ Years Experience
 
